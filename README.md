@@ -1,4 +1,4 @@
-Post-graduate project from Machine Learning applied to Medical Signals and Images at University of São Paulo
+Post-graduate final project from "Machine Learning applied to Medical Signals and Images" at University of São Paulo
 -----------
 # WiDS challenge
 Stanford University has lauched the WiDS (Women in Data Science) challenge in 2020, where the participants should propose a model to predict deaths in ICU units.
