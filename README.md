@@ -1,3 +1,5 @@
+Post-graduate project from Machine Learning applied to Medical Signals and Images at University of São Paulo
+-----------
 # WiDS challenge
 Stanford University has lauched the WiDS (Women in Data Science) challenge in 2020, where the participants should propose a model to predict deaths in ICU units.
 # Database
@@ -11,6 +13,11 @@ Global Open Source Severity of Illness Score (GOSSIS)  - Massachusetts Institute
   - 76 lab results
   - 52 vital signs
   - 41 severity scores
+# LIBRARIES
+- Pandas
+- SKLearn
+- Tensorflow/Keras
+- Numpy
 # DATA PREPARATION
 ## Data cleaning
 - Features with 20% or more blank data was removed - 46% removed
